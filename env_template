@@ -1,0 +1,15 @@
+# Rename the file to '.env' and then remove the comment
+
+# to save the profile pictures of users create a cloudinary account and fill these
+REACT_APP_CLOUDINARY_URL=
+REACT_APP_UPLOAD_PRESET=
+
+# fill the url of the app for local it could be 'localhost...' something
+REACT_APP_URL=
+
+# we created a django app for a alternative centralized app for user without metamask to run
+REACT_USER_DB_API=
+
+# to deploy it on the ropsten network
+INFURA_API_KEY=
+PRIVATE_KEYS=
