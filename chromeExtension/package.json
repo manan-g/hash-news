@@ -1,0 +1,9 @@
+{
+    "name": "hashnews",
+    "version": "1.0.0",
+    "description": "One Click faux news buster.",
+    "main": "index.js",
+    "repository": "https://github.com/naman-monga/hashnews",
+    "author": "Naman Monga <namanmonga.contact@gmail.com>",
+    "license": "MIT"
+}
