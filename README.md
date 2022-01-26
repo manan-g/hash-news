@@ -12,7 +12,7 @@ We developed this project for our college capstone project program. We aimed to 
  - **Third Party APIs used**: ALGOLIA, OCR_SPACE, TwitterAPI, etc.
 
 ## Screen Shots:
-
+![chrome-ext](https://github.com/manan-g/hash-news/blob/main/images/extension_ss_1.png "hash news button") ![chrome-ext](https://github.com/manan-g/hash-news/blob/main/images/extension_ss_2.png "hashnews right click")
 
 #### To run the project locally
  - install [truffle](https://trufflesuite.com/docs/truffle/getting-started/installation) and [ganache](https://trufflesuite.com/ganache/)
