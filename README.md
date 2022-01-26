@@ -13,15 +13,19 @@ We developed this project for our college capstone project program. We aimed to 
 
 ## Screen Shots:
 #### Chrome Extension
-<img src="https://github.com/manan-g/hash-news/blob/main/images/extension_ss_1.png" width="425"/> <img src="https://github.com/manan-g/hash-news/blob/main/images/extension_ss_2.png" width="425"/> 
+<img src="https://github.com/manan-g/hash-news/blob/main/images/extension_ss_1.png" width="425" style="border:1px solid white"/><br/> 
+<img src="https://github.com/manan-g/hash-news/blob/main/images/extension_ss_2.png" width="425" style="border:1px solid white"/> 
 
 #### Search Results
-<img src="https://github.com/manan-g/hash-news/blob/main/images/fontend1.jpeg" width="425"/> <img src="https://github.com/manan-g/hash-news/blob/main/images/frontend2.jpeg" width="425"/> 
+<img src="https://github.com/manan-g/hash-news/blob/main/images/fontend1.jpeg" width="425"/><br/>
+<img src="https://github.com/manan-g/hash-news/blob/main/images/frontend2.jpeg" width="425"/> 
 
 #### Ethereum based News-forum
 <img src="https://github.com/manan-g/hash-news/blob/main/images/reacthome.jpeg" width="500"/><br/>
-<img src="https://github.com/manan-g/hash-news/blob/main/images/react1.jpeg" width="380"/> <img src="https://github.com/manan-g/hash-news/blob/main/images/react2.jpeg" width="380"/> <br/>
-<img src="https://github.com/manan-g/hash-news/blob/main/images/react3.jpeg" width="420"/> <img src="https://github.com/manan-g/hash-news/blob/main/images/react4.jpeg" width="380"/> 
+<img src="https://github.com/manan-g/hash-news/blob/main/images/react1.jpeg" width="380"/><br/>
+<img src="https://github.com/manan-g/hash-news/blob/main/images/react2.jpeg" width="380"/> <br/>
+<img src="https://github.com/manan-g/hash-news/blob/main/images/react3.jpeg" width="420"/><br/>
+<img src="https://github.com/manan-g/hash-news/blob/main/images/react4.jpeg" width="380"/> 
 
 #### To run the project locally
  - install [truffle](https://trufflesuite.com/docs/truffle/getting-started/installation) and [ganache](https://trufflesuite.com/ganache/)
