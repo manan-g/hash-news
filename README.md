@@ -11,6 +11,9 @@ We developed this project for our college capstone project program. We aimed to 
  - **Chrome Extension**: Built to create a one click solution to bust any suspected fake news.
  - **Third Party APIs used**: ALGOLIA, OCR_SPACE, TwitterAPI, etc.
 
+## Screen Shots:
+
+
 #### To run the project locally
  - install [truffle](https://trufflesuite.com/docs/truffle/getting-started/installation) and [ganache](https://trufflesuite.com/ganache/)
  - clone the project and run `npm install`
