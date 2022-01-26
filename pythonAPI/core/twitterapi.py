@@ -9,7 +9,7 @@ Client = tweepy.AppAuthHandler(settings.TWITTER_CONSUMER_KEY, settings.TWITTER_C
 api = tweepy.Client(bearer_token = settings.TWITTER_BEARER_TOKEN,consumer_key= settings.TWITTER_CONSUMER_KEY,consumer_secret = settings.TWITTER_CONSUMER_SECRET)
 
 
-def ocr_space_url(url, overlay=False, api_key='2e6d09010388957', language='eng'):
+def ocr_space_url(url, overlay=False, api_key='YOUR_API_KEY', language='eng'):
 
     payload = {'url': url,
                'isOverlayRequired': overlay,
