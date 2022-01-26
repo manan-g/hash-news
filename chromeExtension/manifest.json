@@ -1,0 +1,26 @@
+{
+    "name": "HashNews",
+    "version": "1.0",
+    "manifest_version": 2,
+    "description": "One Click faux news buster!",
+    "permissions": ["contextMenus", "tabs"],
+    "icons": {
+        "16": "/icons/icon-16.png",
+        "28": "/icons/icon-24.png",
+        "48": "/icons/icon-32.png",
+        "64": "/icons/icon-64.png",
+        "128": "/icons/icon-128.png"
+    },
+    "browser_action": {
+        "default_title": "HashNews",
+        "default_icon": "/icons/icon-128.png"
+    },
+    "background": {
+        "scripts": ["script.js"]
+    },
+    "content_scripts": [{
+        "matches": ["https://twitter.com/*", "<all_urls>"],
+        "js": ["floatingbutton.js"],
+        "run_at": "document_end"
+    }]
+}
