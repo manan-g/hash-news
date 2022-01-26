@@ -13,8 +13,8 @@ We developed this project for our college capstone project program. We aimed to 
 
 ## Screen Shots:
 #### Chrome Extension
-<img src="https://github.com/manan-g/hash-news/blob/main/images/extension_ss_1.png" width="425" style="border:1px solid white"/><br/> 
-<img src="https://github.com/manan-g/hash-news/blob/main/images/extension_ss_2.png" width="425" style="border:1px solid white"/> 
+<img src="https://github.com/manan-g/hash-news/blob/main/images/extension_ss_1.png" width="425"/><br/><hr/>
+<img src="https://github.com/manan-g/hash-news/blob/main/images/extension_ss_2.png" width="425"/> 
 
 #### Search Results
 <img src="https://github.com/manan-g/hash-news/blob/main/images/fontend1.jpeg" width="425"/><br/>
