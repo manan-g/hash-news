@@ -19,8 +19,8 @@ We developed this project for our college capstone project program. We aimed to 
 <img src="https://github.com/manan-g/hash-news/blob/main/images/fontend1.jpeg" width="425"/> <img src="https://github.com/manan-g/hash-news/blob/main/images/frontend2.jpeg" width="425"/> 
 
 #### Ethereum based News-forum
-<img src="https://github.com/manan-g/hash-news/blob/main/images/reacthome.jpeg" width="500"/>
-<img src="https://github.com/manan-g/hash-news/blob/main/images/react1.jpeg" width="380"/> <img src="https://github.com/manan-g/hash-news/blob/main/images/react2.jpeg" width="380"/> 
+<img src="https://github.com/manan-g/hash-news/blob/main/images/reacthome.jpeg" width="500"/><br/>
+<img src="https://github.com/manan-g/hash-news/blob/main/images/react1.jpeg" width="380"/> <img src="https://github.com/manan-g/hash-news/blob/main/images/react2.jpeg" width="380"/> <br/>
 <img src="https://github.com/manan-g/hash-news/blob/main/images/react3.jpeg" width="420"/> <img src="https://github.com/manan-g/hash-news/blob/main/images/react4.jpeg" width="380"/> 
 
 #### To run the project locally
