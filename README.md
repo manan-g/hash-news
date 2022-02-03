@@ -12,7 +12,10 @@ We developed this project for our college capstone project program. We aimed to 
  - **Third Party APIs used**: ALGOLIA, OCR_SPACE, TwitterAPI, etc.
 
 ## Screen Shots:
-#### Chrome Extension
+#### Chrome Extension:
+> 2 ways to access for common users:
+>  1. Click on the button that has been injected via our extension. Which processes the text and image of the tweet.
+>  2. Select the text you wanna connfirm, right click and click on search via HashNews button on the menu.
 <img src="https://github.com/manan-g/hash-news/blob/main/images/extension_ss_1.png" width="425"/><hr/>
 <img src="https://github.com/manan-g/hash-news/blob/main/images/extension_ss_2.png" width="425"/> 
 
