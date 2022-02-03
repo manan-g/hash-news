@@ -15,9 +15,9 @@ We developed this project for our college capstone project program. We aimed to 
 #### Chrome Extension:
 > 2 ways to access for common users:
 >  1. Click on the button that has been injected via our extension. Which processes the text and image of the tweet.
->  2. Select the text you wanna connfirm, right click and click on search via HashNews button on the menu.
-<img src="https://github.com/manan-g/hash-news/blob/main/images/extension_ss_1.png" width="425"/><hr/>
-<img src="https://github.com/manan-g/hash-news/blob/main/images/extension_ss_2.png" width="425"/> 
+> <img src="https://github.com/manan-g/hash-news/blob/main/images/extension_ss_1.png" width="425"/><hr/>
+>  2. Select the text(information) you want to confirm, right click and click on search via HashNews button on the menu.
+> <img src="https://github.com/manan-g/hash-news/blob/main/images/extension_ss_2.png" width="425"/> 
 
 #### Search Results
 <img src="https://github.com/manan-g/hash-news/blob/main/images/fontend1.jpeg" width="500"/><br/>
