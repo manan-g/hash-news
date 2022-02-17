@@ -1,6 +1,8 @@
 ## hashNews
 
-We developed this project for our college capstone project program. We aimed to create a decentralised platform which enables journalist to post articles and related media on the blockchain and ipfs respectively.
+We developed this project for our college capstone project program. 
+1. We aimed to create a decentralised platform which enables journalist to post articles and related media on the blockchain and ipfs respectively. 
+2. And then allow common users to access the immmutable ledger via html injection on social media posts and browser by building a browser extension.
 
 ### Tech Stack used
  - **Solidity**: To create smart contract for the application logic.
